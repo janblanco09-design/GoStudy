@@ -1,0 +1,19 @@
+GO STUDY 2.0 — CÓMO ABRIR LA APP
+
+1. Abre la carpeta Go-Study-Final en Visual Studio Code.
+2. Instala la extensión Live Server (opcional) y abre index.html con ella.
+   O ejecuta: python -m http.server 5500
+3. Entra en http://localhost:5500
+4. Ya puedes organizar tus estudios sin crear cuenta.
+
+Los datos se guardan en ese navegador. Haz copias de seguridad en Configuración.
+Para instalar en móvil, publica primero los archivos en una web HTTPS.
+
+NOVEDADES:
+- Diseño nuevo y animaciones.
+- Accesos rápidos con Ctrl+K, N y /.
+- Panel de progreso y actividad real.
+- Estilos claro/oscuro y 3 colores de acento.
+- Menú inferior en móvil.
+
+ATENCIÓN: para iniciar sesión o sincronizar dos dispositivos tienes que configurar Supabase en config.js. Lee README.md para instrucciones completas.
